@@ -8,6 +8,7 @@ function setup() {
   angleMode(DEGREES);
  
   clock = new Clock(500,260,20,20);
+  
 }
 
 function draw() {
